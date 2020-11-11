@@ -1,0 +1,159 @@
+Started GET "/" for 127.0.0.1 at 2020-11-11 19:21:08 +0900
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 30.3ms | Allocations: 480)
+Completed 200 OK in 73ms (Views: 47.3ms | ActiveRecord: 0.0ms | Allocations: 2734)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 19:21:09 +0900
+Processing by Rails::WelcomeController#index as */*
+  Rendering /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.7ms | Allocations: 293)
+Completed 200 OK in 17ms (Views: 14.5ms | ActiveRecord: 0.0ms | Allocations: 1089)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 19:21:22 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 8)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 420)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 19:21:22 +0900
+Processing by Rails::WelcomeController#index as */*
+  Rendering /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 8)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 309)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:03 +0900
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 3)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 688)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:03 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:04 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:04 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:04 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:24:04 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:55 +0900
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 400)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:55 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:56 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:56 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:56 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:25:56 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:34:03 +0900
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 12ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 1049)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:34:04 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 247)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:34:04 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 254)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:34:04 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 253)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:41:14 +0900
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 18ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 1049)
+
+
+Started GET "/" for 127.0.0.1 at 2020-11-11 23:41:15 +0900
+Processing by ApplicationController#hello as */*
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 254)
+
+
